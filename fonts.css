@@ -1,0 +1,17 @@
+.fontlink{
+    font-size: large;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fontlink:hover{
+    color: lightgray;
+}
+.guri{
+    display: flex;
+    justify-self: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fontmain{
+    font-size: larger;
+}
