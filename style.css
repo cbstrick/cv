@@ -1,8 +1,16 @@
-header{
-    background-color: rgb(114, 114, 114);
-    width: auto;
+body{
+    height: 100vh;
+}
+
+.header{
+    background-color: rgb(116, 116, 116);
 }
 .guri2{
     display: flex;
     justify-content: space-around;
+}
+.divmeio{
+    background-color: rgb(201, 201, 201);
+    height: 700px;
+    width: auto;
 }
